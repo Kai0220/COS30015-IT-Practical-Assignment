@@ -1,19 +1,19 @@
 Total false negatives (missed spam): 15
 
 --- Email index in test set: 5 ---
-Email Subject: Make your prints beautiful & SAVE BIG!            14144
+Email Subject: Top  Seed #574A
 Email Text: Top  Seed #574A ***** This is an HTML Message ! *****
 Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 44 ---
-Email Subject: free satellite
+Email Subject: to  the  heaven gjOQ1LUGEh3axIEp2anbbYD
 Email Text: to  the  heaven gjOQ1LUGEh3axIEp2anbbYD 
 Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 189 ---
-Email Subject: [ILUG] MICHAEL ! ilug
+Email Subject: Yeni s�r�mde
 Email Text: Yeni s�r�mde SMSTR lilhwmuxvrsyqcwjhvttxw Degerli SMSTR kullanicimiz SMS programimiz �esitli aksakliklar sebebi ile kullanilamaz hale gelmistir. Bu 
 sebepten dolayi yeni bir program hazirlamak zorunda kaldik. Programi asagidaki linki 
 kullanarak indirebilirsiniz. Programi biz vir�s kontrol�nden ge�irmis bulunmaktayiz.
@@ -26,13 +26,13 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 203 ---
-Email Subject: Iraq Today Daily News - FREE Trial
+Email Subject: 拾金不昧~~別傻了~~
 Email Text: 拾金不昧~~別傻了~~ 
 Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 217 ---
-Email Subject: Re: New testing packages
+Email Subject: [scoop] Haberdar olun
 Email Text: [scoop] Haberdar olun HABERDAR.COM - HABER VE MEDYA PORTALI
 Art�k t�m haberleri sadece tek siteden takip edebileceksiniz. Haberdar.com a��ld�!
 Haber ba�l�klar�, spor haberleri, teknoloji haberleri, k�lt�r ve sanat haberleri, internet haberleri, bilim ve uzay, 
@@ -45,7 +45,7 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 243 ---
-Email Subject: .BIZ  .INFO domain extensions
+Email Subject: [ILUG] THE TRUTH OF INTERNET MARKETING--A REALISTIC WAY OF MARKETING
 Email Text: [ILUG] THE TRUTH OF INTERNET MARKETING--A REALISTIC WAY OF MARKETING We offer some of the best bulk e-mail prices on the Internet. We do all 
 the mailing for you. 
 You just provide us with the ad! It's that simple!
@@ -68,13 +68,13 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 290 ---
-Email Subject: Liddle quits Today with new BBC deal
+Email Subject: 免費無限次任打中港長途電話
 Email Text: 免費無限次任打中港長途電話 免費無限次任打中港長途電話
 Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 345 ---
-Email Subject: Re: [VoID] a new low on the personals tip...
+Email Subject: Vary your interests!
 Email Text: Vary your interests! -----------------------------------------------------------  
  
 http://www.webheadsweekly.com/babes-shaved/karsten/babes.html  
@@ -144,7 +144,7 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 421 ---
-Email Subject: Re: [zzzzteana] The Cafe Forteana is back online!!!
+Email Subject: (����)�Ż��!!..���Ÿ� ���� �ý���
 Email Text: (����)�Ż��!!..���Ÿ� ���� �ý��� 일반 컴퓨터 원거리 감시 시스템 원거리 감시 시스템 대리점 및 딜러 모집
 안내 Digital
 Security Solution S9 Inc. S9 에서는 소규모 및 일반 매장용으로 개발된 원거리 감시 시스템의 유통 및 설치를 담당하실 분을
@@ -160,7 +160,7 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 504 ---
-Email Subject: NYTimes.com Article: Stop Those Presses! Blonds, It Seems, Will    Survive After All
+Email Subject: Re: change of plans
 Email Text: Re: change of plans Hello you two,
 
 I am so sorry Catherine for not writing recently. I have just been vv busybeing a working mother and sometimes it all gets too much you know!! i cannot wait to see you both although we may meet at the airport on the 16/6 as that's the day we're going to france but i will see you both at Bronagh's house for her 30th which we're going to on the way back from the airport. I am so excited about seeing you!!! liitle Eva ( Aine) was born on Tuesday
@@ -198,13 +198,13 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 509 ---
-Email Subject: Re: CD player UI for toddlers
+Email Subject: good mtv wmE239PgyETfr9P4nvyEWKJCEkWH
 Email Text: good mtv wmE239PgyETfr9P4nvyEWKJCEkWH 
 Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 650 ---
-Email Subject: Set & Forget! Blast Your Ad Over 200 Million Leads & Growing Each Month Spam Fre
+Email Subject: Undeliverable: Home Based Business for Grownups
 Email Text: Undeliverable: Home Based Business for Grownups Your message
 
   Subject: Home Based Business for Grownups
@@ -221,13 +221,13 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 691 ---
-Email Subject: asynchronous I/O (was Re: Gasp!)
+Email Subject: super news FeW62dODaBGHzD5oW
 Email Text: super news FeW62dODaBGHzD5oW 
 Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 785 ---
-Email Subject: 3D Motion Capture
+Email Subject: READ---SHIPPING INSTRUTIONS--FOR YOUR ORDER
 Email Text: READ---SHIPPING INSTRUTIONS--FOR YOUR ORDER This is a multipart MIME message.
 
 --= Multipart Boundary 0626010800
@@ -966,7 +966,7 @@ Actual Label: Spam
 Predicted Label: Ham
 --------------------------------------------------
 --- Email index in test set: 828 ---
-Email Subject: DVD stills
+Email Subject: Special Affiliate Offers from Amazon.Com!
 Email Text: Special Affiliate Offers from Amazon.Com! Welcome to "Ghetto" America!
 �...Yes, you heard me; I said "Ghetto" America! What is "Ghetto" 
 America, I'm glad you asked. Before I go on please be warned, 
