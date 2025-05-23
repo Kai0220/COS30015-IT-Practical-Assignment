@@ -6,3 +6,6 @@ The system is designed not only to distinguish spam from legitimate emails but a
 
 Prepared By:
 Jesse Ting Wen Kai (102769808)
+
+Credit:
+Dataset:https://spamassassin.apache.org/old/publiccorpus/
